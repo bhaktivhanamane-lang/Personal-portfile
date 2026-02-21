@@ -49,10 +49,13 @@ h2{
     flex-wrap: wrap;
 }
 
+/* 👇 Photo Size Reduced Here */
 .about-container img{
-    width: 150px;
+    width: 100px;   /* Reduced from 150px to 100px */
+    height: 100px;  /* Keep height same as width */
     border-radius: 50%;
     border: 4px solid #4e73df;
+    object-fit: cover;
 }
 
 /* Skills */
