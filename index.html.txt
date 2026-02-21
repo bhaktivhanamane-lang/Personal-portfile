@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bhakti's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Hi, I'm Bhakti Vhananame 👋</h1>
+        <p>Web Development Student | Learning & Growing Every Day</p>
+    </header>
+
+    <!-- About Me -->
+    <section>
+        <h2>About Me</h2>
+        <div class="about">
+            <img src="profile.jpg" alt="My Photo">
+            <p>
+                Hello! My name is Bhakti Vhanamane. I am a web development student who enjoys
+                building simple and clean websites using HTML and CSS.
+                I love learning new technologies and improving my programming skills.
+            </p>
+        </div>
+    </section>
+
+    <!-- Skills -->
+    <section>
+        <h2>My Skills</h2>
+        <ul class="skills">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Basic JavaScript</li>
+            <li>C Programming</li>
+            <li>Teamwork</li>
+            <li>Communication Skills</li>
+        </ul>
+    </section>
+
+    <!-- Projects -->
+    <section>
+        <h2>My Projects</h2>
+
+        <div class="project">
+            <h3>Smart India Hackathon (SIH) Project</h3>
+            <p>
+                I participated in the Smart India Hackathon where my team worked on 
+                solving a real-world problem by developing an innovative technical solution. 
+                We focused on research, planning, and implementation to create a practical 
+                and user-friendly system.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Calculator Project</h3>
+            <p>
+                I created a simple calculator using HTML, CSS, and JavaScript 
+                to perform basic arithmetic operations.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>To-Do List</h3>
+            <p>
+                This project helps users manage daily tasks efficiently 
+                and stay organized.
+            </p>
+        </div>
+
+    </section>
+
+    <!-- Resume -->
+    <section>
+        <h2>Resume</h2>
+        <a href="resume.pdf" download class="button">Download My Resume</a>
+    </section>
+
+    <!-- Contact -->
+    <section>
+        <h2>Contact Me</h2>
+        <p>Email: bhaktivhanamane@gmail.com</p>
+        <p>Phone: +91 8888543779</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Bhakti Vhanamane. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
